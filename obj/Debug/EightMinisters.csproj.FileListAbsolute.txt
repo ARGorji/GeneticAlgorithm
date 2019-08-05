@@ -1,0 +1,9 @@
+D:\GeneticAlgorithm\EightMinisters\bin\Debug\EightMinisters.exe.config
+D:\GeneticAlgorithm\EightMinisters\bin\Debug\EightMinisters.exe
+D:\GeneticAlgorithm\EightMinisters\bin\Debug\EightMinisters.pdb
+D:\GeneticAlgorithm\EightMinisters\obj\Debug\EightMinisters.csprojResolveAssemblyReference.cache
+D:\GeneticAlgorithm\EightMinisters\obj\Debug\EightMinisters.Properties.Resources.resources
+D:\GeneticAlgorithm\EightMinisters\obj\Debug\EightMinisters.csproj.GenerateResource.Cache
+D:\GeneticAlgorithm\EightMinisters\obj\Debug\EightMinisters.exe
+D:\GeneticAlgorithm\EightMinisters\obj\Debug\EightMinisters.pdb
+D:\GeneticAlgorithm\EightMinisters\obj\Debug\EightMinisters.Data.resources
